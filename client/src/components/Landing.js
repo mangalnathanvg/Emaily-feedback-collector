@@ -10,7 +10,7 @@ const Landing = () => {
             </h1>
             Collect feedback from your users.
         </div>
-        <div>
+        <div style={{textAlign: 'center'}}>
             Developed by <a href="https://www.linkedin.com/in/mangalnathanvg/" target="blank">Mangalnathan Vijayagopal</a>
         </div>
         </div>
