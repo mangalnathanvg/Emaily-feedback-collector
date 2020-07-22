@@ -3,6 +3,7 @@ import React from 'react';
 
 const Landing = () => {
     return (
+        <div>
         <div style={{textAlign: 'center'}}>
             <h1>
                 Emaily!
@@ -11,6 +12,7 @@ const Landing = () => {
         </div>
         <div>
             Developed by <a href="https://www.linkedin.com/in/mangalnathanvg/" target="blank">Mangalnathan Vijayagopal</a>
+        </div>
         </div>
     );
 }
